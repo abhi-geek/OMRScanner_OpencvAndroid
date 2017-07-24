@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\openCVLibrary320\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8374069d3608b9fa222fea84a8b9ac84e18e9bf">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\app\build\intermediates\pre-dexed\debug\classes_a79426c4322672ae974890636ca11fbb653c85cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48ecda324aa0bacf7e7f623d4b74a61637dccb0a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1a7cb09e7d9a63f2903c8f298ea6da8b8c803156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BubbleBoard\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_00c2870e7d5eac7896fcf5279e9abcd6301a8160\classes.dex" />
+    </item>
+
+</items>

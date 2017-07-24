@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "C:/Users/Admin/AndroidStudioProjects/BubbleBoard/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Admin\\AndroidStudioProjects\\BubbleBoard\\app\\.externalNativeBuild\\cmake\\release\\mips --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Admin\\AndroidStudioProjects\\BubbleBoard\\app\\.externalNativeBuild\\cmake\\release\\mips --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=D:/Projects/androidNDK/android-ndk-r15/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/Projects/androidNDK/android-ndk-r15/sysroot  -Dnative_lib_EXPORTS -isystem D:\\Projects\\androidNDK\\android-ndk-r15\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\Projects\\androidNDK\\android-ndk-r15\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\include -isystem D:\\Projects\\androidNDK\\android-ndk-r15\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/Projects/androidNDK/android-ndk-r15/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/Admin/AndroidStudioProjects/BubbleBoard/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/Admin/AndroidStudioProjects/BubbleBoard/app/.externalNativeBuild/cmake/release/mips"
+				}
+			],
+			"output" : "C:/Users/Admin/AndroidStudioProjects/BubbleBoard/app/build/intermediates/cmake/release/obj/mips/libnative-lib.so",
+			"toolchain" : "1691659609"
+		}
+	},
+	"toolchains" : 
+	{
+		"1691659609" : 
+		{
+			"cCompilerExecutable" : "D:/Projects/androidNDK/android-ndk-r15/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Projects/androidNDK/android-ndk-r15/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
